@@ -8,7 +8,7 @@
          "SakirBey1",
          "Herlock"
       ],   
-   "repository": "https://github.com/SakirBey1/tg",
+   "repository": "https://github.com/mkayunuss/tg",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
